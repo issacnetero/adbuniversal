@@ -80,9 +80,7 @@ A Windows batch script to simplify installing and uninstalling Android APKs on c
 
 ### License & Author
 
-* **Author**: Your Name
+* **Author**: issacnetero
 * **License**: MIT License (see `LICENSE` file)
 
 ---
-
-*Copy and paste this README.md into your GitHub repository before your first commit!*
